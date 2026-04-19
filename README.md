@@ -105,6 +105,4 @@ A hybrid system combining predictions from Autoencoder, Random Forest, and One-C
 
 ---
 
-## 🚀 Goal
-
-To explore and compare different anomaly detection techniques and understand their strengths, weaknesses, and real-world trade-offs in cybersecurity-style datasets.
+README.md was created with GenAI
