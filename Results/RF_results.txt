@@ -1,0 +1,6 @@
+Accuracy: 0.8841719077568134
+Precision: 0.99375
+Recall: 0.7456037514654161
+F1: 0.8519758874748827
+
+Process finished with exit code 0
