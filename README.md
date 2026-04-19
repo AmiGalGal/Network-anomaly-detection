@@ -22,7 +22,7 @@ An unsupervised deep learning model that learns to reconstruct normal network tr
 - Strong recall → good at detecting anomalies  
 - Lower precision → more false positives  
 - Useful when unseen attack patterns are expected  
-
+after testing optimal (for f1) threshold was found to be 1.1031993627548218
 ---
 
 ### 2. Random Forest Classifier
@@ -56,7 +56,7 @@ An unsupervised kernel-based model that learns the boundary of normal data and f
 - Moderate precision and recall  
 - Sensitive to hyperparameter tuning (`nu`, `gamma`)  
 - Performs well when normal data is well-defined  
-
+after testing optimal (for f1) threshold was found to be -1.1593558169404248
 ---
 
 ### 4. Ensemble Model (Combined Approach)
